@@ -114,6 +114,7 @@ int main()
             mostOccuredCharCount = e.second;
         }
     }
+	
 
     cout << text.length() << endl << mostOccuredStr << endl << mostOccCount << endl << mostOccuredChar << endl << mostOccuredCharCount;
 
