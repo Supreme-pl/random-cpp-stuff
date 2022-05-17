@@ -115,7 +115,6 @@ int main()
         }
     }
 	
-
     cout << text.length() << endl << mostOccuredStr << endl << mostOccCount << endl << mostOccuredChar << endl << mostOccuredCharCount;
 
     return 0;
