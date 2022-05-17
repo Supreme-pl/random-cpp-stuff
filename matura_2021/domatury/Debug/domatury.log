@@ -1,0 +1,4 @@
+﻿  domatury.cpp
+C:\dev\domatury\domatury\domatury\domatury.cpp(37,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\dev\domatury\domatury\domatury\domatury.cpp(61,31): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  domatury.vcxproj -> C:\dev\domatury\domatury\Debug\domatury.exe
